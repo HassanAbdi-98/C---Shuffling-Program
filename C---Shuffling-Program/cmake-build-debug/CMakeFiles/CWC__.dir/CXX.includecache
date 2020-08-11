@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/engfact/Downloads/CWC++ (2)/CWC++/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+sstream
+-
+
